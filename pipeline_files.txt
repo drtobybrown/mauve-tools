@@ -1,0 +1,15 @@
+CONFIG
+LOGFILE
+kin-SpectralMask.fits
+mask.fits
+AllSpectra.fits
+gas-bestfit_BIN.fits
+kin-bestfit-cont.fits
+BinSpectra.fits
+gas-cleaned_BIN.fits
+kin-bestfit.fits
+table.fits
+BinSpectra_linear.fits
+gas_BIN.fits
+kin-optimalTemplates.fits
+kin.fits
